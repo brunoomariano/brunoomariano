@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:wave: Olá, me chamo Bruno Mariano e sou um desenvolvedor Python. :snake:
+
+:eyes: Tenho interesse nas áreas de Desenvolvimento Web, Inteligência artificial e DevOps 
+
+:seedling: Atualmente, além do Python, estudo NodeJS, Golang e React
+
+:revolving_hearts: Sou Pai de uma garotinha esperta, amo participar de momentos em família e apreciar um bom whisky
