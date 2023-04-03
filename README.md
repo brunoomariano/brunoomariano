@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 :seedling: Atualmente, além do Python, estudo NodeJS, Golang e React
 
-:revolving_hearts: Sou Pai de uma garotinha esperta, amo participar de momentos em família e apreciar um bom whisky
+:revolving_hearts: Sou Pai de uma garotinha esperta e amo participar de momentos em família.
