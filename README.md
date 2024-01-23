@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 :eyes: Tenho interesse nas áreas de Desenvolvimento Web, Inteligência artificial e DevOps 
 
-:seedling: Atualmente, além do Python, busco aprender outras linguagem como Rust e GoLang.
+:seedling: Atualmente, além do Python, busco aprender outras linguagem como Rust, Typescript e GO.
 
