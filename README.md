@@ -16,4 +16,4 @@ Gosto de software bem feito, time alinhado e entrega que realmente faz diferenç
 
 ## Contato
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brunoomariano/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](bruno.mariano@senfio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bruno.mariano@senfio.com)
